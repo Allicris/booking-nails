@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017/nail-bookings', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://allisonserrano:allicris@cluster0.cvjkssz.mongodb.net/nail-bookings?retryWrites=true&w=majority', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
