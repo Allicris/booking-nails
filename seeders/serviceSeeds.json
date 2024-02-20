@@ -15,19 +15,19 @@
     "name": "Freestyle Acrylics",
     "price": 65,
     "description": "A creative take",
-    "image": "/src/assets/images/creative-pic.png"
+    "image": "/dist/assets/creative-pic.png"
   },
   {
     "name": "Acrylics",
     "price": 65,
     "description": "Any length, any design",
-    "image": "/src/assets/images/acrylics-pic.png"
+    "image": "/dist/assets/acrylics-pic.png"
   },
   {
     "name": "Gel Manicure",
     "price": 45,
     "description": "A regular gel manicure",
-    "image": "/src/assets/images/gelmanicure-pic.png"
+    "image": "/dist/assets/gelmanicure-pic.png"
   }
 ]
   
